@@ -1,8 +1,28 @@
-# 👋 **Hello, World!** I'm **Amira** 🌟  
+<h1 align="center">
+  <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px"/>
+  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
+  <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
+</h1>
 
-🚀 **Flutter Wizard | AI Enthusiast** 🚀
+<br/>
+<img align="right" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=ecf05e47zh486rmizwio0kqs204khs9qcywkwy2qw4cvqvjr&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 
----
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7a375d&size=35&lines=Hey!+It's+Amira!;I'm+a+mobile+app+developer...)](https://git.io/typing-svg)
+
+Let’s create something amazing together! 💫  
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/amira-nasser-sayed/)  
+- 📧 Email: amira20nasser@gmail.com
+
+<p align="left">
+  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=amira20nasser&style=flat&color=blue"/> •
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/amira20nasser?label=Followers&style=social"/> •
+  <img src="https://img.shields.io/github/stars/amira20nasser?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"/> •
+  <a href="https://github.com/sponsors/amira20nasser"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
+</p>
+
+<br/>
 
 ## 💻 **About Me**  
 I'm a passionate **Computer and Information Science** student at Ain Shams University, with a keen interest in **Flutter Development**, and **Artificial Intelligence**. I enjoy building intelligent systems that solve real-world problems and continuously strive to expand my knowledge.  
@@ -56,11 +76,3 @@ I'm a passionate **Computer and Information Science** student at Ain Shams Unive
 - 🌍 Proud **Egyptian** 🇪🇬.  
 - 💡 My mantra: **“Consistency is key to growth.”**  
 - I love **collaborating** with teams and brainstorming innovative ideas.  
-
----
-
-## 📬 **Connect with me**  
-Let’s create something amazing together! 💫  
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/amira-nasser-sayed/)  
-- 📧 Email: amira20nasser@gmail.com
