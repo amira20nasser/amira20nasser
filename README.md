@@ -5,7 +5,7 @@
 </h1>
 
 <br/>
-<img align="right" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=ecf05e47zh486rmizwio0kqs204khs9qcywkwy2qw4cvqvjr&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
+<img align="right" height="250" width="400" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZng5bGM4anh4MjNheW5peDhtdjB5c2dsZGxtajRra2E2ZzZqbGJqYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xFkgeu7dhfgqqxJqmj/giphy.gif"/>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7a375d&size=35&lines=Hey!+It's+Amira!;I'm+a+mobile+app+developer...)](https://git.io/typing-svg)
