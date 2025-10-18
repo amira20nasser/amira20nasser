@@ -81,7 +81,7 @@ Focused on enhancing **question quality** through **Reinforcement Learning from 
 ---
 
 ### 📰 **News Cloud App**  
-**Tech Stack:** Flutter, Cubit, DIO, Hive  
+**Tech Stack:** Flutter, Cubit, DIO, SQLite  
 📎 [GitHub Repository](https://github.com/amira20nasser/NewsCloudApp)  
 
 - Built a **news browsing app** that displays the latest articles from various sources.  
