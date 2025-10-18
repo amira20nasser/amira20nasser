@@ -25,54 +25,84 @@ Let’s create something amazing together! 💫
 <br/>
 
 ## 💻 **About Me**  
-I'm a passionate **Computer and Information Science** student at Ain Shams University, with a keen interest in **Flutter Development**, and **Artificial Intelligence**. I enjoy building intelligent systems that solve real-world problems and continuously strive to expand my knowledge.  
-
-- 🌟 **Current Focus**: Building an **intelligent multi-modal question generation system** for my graduation project.
-  
-- 🌱 **Learning Journey**:  
-  - 🌟 Exploring **Transformers** and **Advanced Machine Learning**.  
-  - 📱 Advancing my skills in **Flutter** for mobile development.  
-- ✍️ I’m also improving my **English fluency** and learning **new vocabulary**.  
+I'm a passionate **Flutter Developer** and a recent **Computer and Information Science graduate** from **Ain Shams University**.  
+I enjoy building **modern, scalable mobile applications** and exploring how **Artificial Intelligence** can enhance user experiences.  
+I’m always eager to learn, create, and share knowledge with the community.
 
 ---
 
-## 🛠️ **Technical Skills**  
-
-### **Programming & Scripting**  
-- Python 🐍  
-- Dart 🎯  
-- C++   
-
-### **Frameworks & Libraries**  
-- TensorFlow & PyTorch  
-- Hugging Face Transformers  
-- Flutter  
-
-### **Key Expertise**
-- 🧠 AI  
-- 📱 State Management (Cubit, Bloc)  
+### **Key Expertise**  
+- 📱 **State Management**: Cubit, Bloc  
+- 🧩 **Clean Architecture & Dependency Injection (GetIt)**  
+- ☁️ **Firebase Integration & Hive - SQLITE Local Database**
 
 ---
 
-## 🚀 **What I’m Working On**  
-- **Graduation Project**: An **intelligent system** that generates questions from PDFs, multimedia
-  
+## 🚀 **Projects**
+
+### 🛍️ **Amira’s Store App**  
+**Tech Stack:** Flutter, Clean Architecture, Firebase, Cubit, DIO, GetIt, GoRouter, Hive  
+📎 [GitHub Repository](https://github.com/amira20nasser/amira_store.git)  
+
+A modern **E-commerce app** with elegant UI and efficient state management using **Cubit**.  
+Built following **Clean Architecture principles** to ensure scalability and maintainability.
+
 ---
 
-## 🌱 **Goals for 2025**  
-- 🏆 Master **Transformers** and advanced ML architectures.  
-- 🌟 Contribute to impactful open-source projects.  
-- ✨ Build an **advanced Flutter application** with complex UI and state management.  
+### 🧠 **QuesGenie – Intelligent Question Generation System**  
+**Tech Stack:** Python, PyTorch, Hugging Face, Transformers, PPO (RLHF)  
+📎 [Backend Repository](https://github.com/amira20nasser/QuesGenieApp.git)  
+
+An **AI-powered educational system** that generates various types of questions (MCQ, matching, etc.) from **multi-modal inputs** such as PDFs, presentations, and voice.  
+Focused on enhancing **question quality** through **Reinforcement Learning from Human Feedback (RLHF)**.
+
+---
+
+### 📚 **Books App**  
+**Tech Stack:** Flutter, Cubit, Clean Architecture, Responsive UI, Hive  
+📎 [GitHub Repository](https://github.com/amira20nasser/clean_archi_bookly)  
+
+- Developed a **book browsing app** using Flutter, following **Clean Architecture principles** for better maintainability and scalability.  
+- Implemented **state management with Cubit** to efficiently handle UI updates and business logic.  
+- Designed a **responsive UI** to ensure a seamless experience across different screen sizes.  
+- Integrated **API services** to fetch book data dynamically and display relevant content.
+
+---
+
+### 🧩 **Responsive Adaptive Application**  
+**Tech Stack:** Flutter, Responsive Design, Adaptive UI  
+📎 [GitHub Repository](https://github.com/amira20nasser/responsive_dashboard)  
+
+- Developed a **fully responsive and adaptive mobile application** that adjusts dynamically to different screen sizes and orientations.  
+- Implemented **platform-specific UI adaptations** to enhance the experience on both mobile and tablet devices.  
+- Used **Flutter’s LayoutBuilder** and **MediaQuery** for an efficient adaptive design strategy.  
+- Added **animations and UI optimizations** for a smooth and modern user experience.
+
+---
+
+### 📰 **News Cloud App**  
+**Tech Stack:** Flutter, Cubit, DIO, Hive  
+📎 [GitHub Repository](https://github.com/amira20nasser/NewsCloudApp)  
+
+- Built a **news browsing app** that displays the latest articles from various sources.  
+- Used the **DIO package** to handle HTTP requests efficiently and retrieve real-time data.  
+- Applied **Cubit** for smooth state management and reactive UI updates.  
+- Integrated **Hive** for local storage to enable **offline access** to saved news.
+
+---
+## 🌱 **Goals for 2026**  
+- ✨ Publish and maintain a **fully-featured Flutter app** on the Play Store.  
+- 🤝 Contribute to **open-source Flutter and AI projects**.  
 
 ---
 
 ## 🎓 **Certifications**  
-- 🎯 **Complete Flutter & Dart Development Course** (Tharwat Samy)  
-- 🛠️ **Flutter Advanced: Bloc and MVVM Pattern** (Tharwat Samy)  
-- 🤖 **Advanced Machine Learning Algorithms** (Adrew NG)
+- 🎯 **Complete Flutter & Dart Development Course** – Tharwat Samy  
+- 🛠️ **Flutter Advanced: Bloc and MVVM Pattern** – Tharwat Samy
 ---
 
 ## 🎨 **Fun Facts**  
-- 🌍 Proud **Egyptian** 🇪🇬.  
-- 💡 My mantra: **“Consistency is key to growth.”**  
-- I love **collaborating** with teams and brainstorming innovative ideas.  
+- 🌍 Proud **Egyptian** 🇪🇬  
+- 💬 Passionate about **English fluency** and clear communication  
+- 💡 Motto: *“Consistency is key to growth.”*  
+- 🤝 Love collaborating and brainstorming creative ideas
