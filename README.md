@@ -87,7 +87,7 @@ Focused on enhancing **question quality** through **Reinforcement Learning from 
 - Built a **news browsing app** that displays the latest articles from various sources.  
 - Used the **DIO package** to handle HTTP requests efficiently and retrieve real-time data.  
 - Applied **Cubit** for smooth state management and reactive UI updates.  
-- Integrated **Hive** for local storage to enable **offline access** to saved news.
+- Integrated **SQLite** for local storage to enable **offline access** to saved news.
 
 ---
 ## 🌱 **Goals for 2026**  
