@@ -51,7 +51,7 @@ Built following **Clean Architecture principles** to ensure scalability and main
 
 ### 🧠 **QuesGenie – Intelligent Question Generation System**  
 **Tech Stack:** Python, PyTorch, Hugging Face, Transformers, PPO (RLHF)  
-📎 [Backend Repository](https://github.com/amira20nasser/QuesGenieApp.git)  
+📎 [GitHub Repository](https://github.com/amira20nasser/QuesGenieApp.git)  
 
 An **AI-powered educational system** that generates various types of questions (MCQ, matching, etc.) from **multi-modal inputs** such as PDFs, presentations, and voice.  
 Focused on enhancing **question quality** through **Reinforcement Learning from Human Feedback (RLHF)**.
